@@ -5,7 +5,7 @@ Saiful's Module
 
 These are the functions have been created:
 
-.. automodule:: saifus_module
+.. automodule:: saifuls_module
    :members:
 
 
